@@ -1,21 +1,22 @@
 h1 {
-font-family: 'Courier New', Courier, monospace;
+font-family: 'arial';
 font: 40;
 color: black;
 }
 
 h2 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'arial';
     font: 40;
     color: black;
 }
 
 h3{
+    font-family: 'arial';
     color: black;
 }
 
 p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'arial';
     font: 40;
     color: black;
 }
